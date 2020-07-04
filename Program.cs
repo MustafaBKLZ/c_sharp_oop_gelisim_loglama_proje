@@ -13,7 +13,7 @@ namespace GelisimYonetimLoglamaMantigi
         [STAThread]
         static void Main()
         {
-            Classes.SQLConnectionClass.Baglanti();
+            Classes.SQLConnectionClass.Baglanti(); 
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
